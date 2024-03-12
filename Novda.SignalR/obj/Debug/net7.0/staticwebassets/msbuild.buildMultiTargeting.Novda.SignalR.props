@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Novda.SignalR.props" />
+</Project>

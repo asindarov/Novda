@@ -1,0 +1,11 @@
+C:\Users\asindarov\RiderProjects\Novda\Novda.Shared\bin\Debug\net7.0\Novda.Shared.deps.json
+C:\Users\asindarov\RiderProjects\Novda\Novda.Shared\bin\Debug\net7.0\Novda.Shared.dll
+C:\Users\asindarov\RiderProjects\Novda\Novda.Shared\bin\Debug\net7.0\Novda.Shared.pdb
+C:\Users\asindarov\RiderProjects\Novda\Novda.Shared\obj\Debug\net7.0\Novda.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asindarov\RiderProjects\Novda\Novda.Shared\obj\Debug\net7.0\Novda.Shared.AssemblyInfoInputs.cache
+C:\Users\asindarov\RiderProjects\Novda\Novda.Shared\obj\Debug\net7.0\Novda.Shared.AssemblyInfo.cs
+C:\Users\asindarov\RiderProjects\Novda\Novda.Shared\obj\Debug\net7.0\Novda.Shared.csproj.CoreCompileInputs.cache
+C:\Users\asindarov\RiderProjects\Novda\Novda.Shared\obj\Debug\net7.0\Novda.Shared.dll
+C:\Users\asindarov\RiderProjects\Novda\Novda.Shared\obj\Debug\net7.0\refint\Novda.Shared.dll
+C:\Users\asindarov\RiderProjects\Novda\Novda.Shared\obj\Debug\net7.0\Novda.Shared.pdb
+C:\Users\asindarov\RiderProjects\Novda\Novda.Shared\obj\Debug\net7.0\ref\Novda.Shared.dll

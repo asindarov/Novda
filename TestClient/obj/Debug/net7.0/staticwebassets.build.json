@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Nhf6XKGYupx/2gHdCgPTeYqZbEBvpyUdSdm5Viwl6N8=",
+  "Source": "TestClient",
+  "BasePath": "_content/TestClient",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
